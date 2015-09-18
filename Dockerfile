@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER 1234567890 "going.magic@gmail.com"
+MAINTAINER going "going.magic@gmail.com"
 
 USER root
 
